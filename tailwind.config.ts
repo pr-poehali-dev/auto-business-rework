@@ -57,15 +57,15 @@ export default {
 					foreground: 'hsl(var(--card-foreground))'
 				},
 				corp: {
-					dark: '#0A0E17',
-					navy: '#0F1A2E',
-					steel: '#1C2B44',
-					mid: '#2A3F5F',
-					gold: '#C8972A',
-					'gold-light': '#E8B84B',
-					silver: '#8A9BB5',
-					light: '#D4DCE8',
-					white: '#F0F4FA',
+					dark: '#1A1A1A',
+					navy: '#F7F7F7',
+					steel: '#EBEBEB',
+					mid: '#D4D4D4',
+					gold: '#FF6637',
+					'gold-light': '#FF8559',
+					silver: '#888888',
+					light: '#444444',
+					white: '#FFFFFF',
 				}
 			},
 			borderRadius: {
